@@ -26,7 +26,7 @@
 <h3>Links and Images</h3>
 <p>First I'm going to link to <a href="https://qmplus.qmul.ac.uk/course/view.php?idnumber=SLLF-Home">my website</a></p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Robin%2C_Leighton_Moss_January_2009.jpg" />
+<img src="http://www.publicdomainpictures.net/pictures/170000/velka/great-britain-national-flag.jpg" />
 
 
 
