@@ -1,13 +1,11 @@
+
 <ul class="breadcrumb">
   <li>Home</li>
   <li><a href="#">Page2</a></li>
   <li><a href="#">Page3</a></li>
   <li><a href="#">Page4</a></li>
   <li><a href="#">Page5</a></li>
-  </ul>
-
-</body>
-</html>
+</ul>
 
 <h1>Language Learning with Me</h1>
 <h2>Section One: What you can learn here.</h2>
