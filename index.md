@@ -1,10 +1,6 @@
 
 <ul class="breadcrumb">
   <li>Home</li>
-  <li><a href="#">Page 2</a></li>
-  <li><a href="#">Page 3</a></li>
-  <li><a href="#">Page 4</a></li>
-  <li><a href="#">Page 5</a></li>
 </ul>
 
 <h1>Language Learning with Me</h1>
