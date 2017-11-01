@@ -33,9 +33,8 @@
 
 <img src="http://www.publicdomainpictures.net/pictures/170000/velka/great-britain-national-flag.jpg" />
 
-<p>
-  <img src="img/dog.jpeg"/>
- </p>
+ <img src="img/dog.jpg"/>
+
 
 
 <table>
