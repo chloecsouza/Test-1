@@ -9,12 +9,6 @@
 <h1> Page 3 </h1>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dBxlHiN0O8s" frameborder="0" gesture="media" allowfullscreen></iframe>
-
-
-
-
-
 
 
 <iframe src="https://archive.org/embed/Sml209TestAudio" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
