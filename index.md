@@ -55,8 +55,11 @@
 
 <audio id="der Verweis" src="C:\Users\Sunil\Documents\Chloe\Der Verweis.m4a" preload="auto"></audio><a class="icon fa-volume-up" onclick="document.getElementById('der Verweis').play();"></a>
 
+<div class="speaker"></div>
 
-<hr>
+<audio id="player">
+    <source src="C:\Users\Sunil\Documents\Chloe\Der Verweis.m4a" type="audio/m4a" />
+</audio>
 
 <footer>
   <p>Student Number: 160360167</p>
