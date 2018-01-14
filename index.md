@@ -36,17 +36,6 @@
  <img src="img/dog.jpg" style="width:50%;"/>
 
 
-<audio controls>
-  <source src="Der Verweis.m4a" type="audio/mpeg">
-</audio>
-
-<hr>
-
-<div class="speaker"></div>
-
-<audio id="player">
-    <source src="Der Verweis.m4a" type="audio/m4a" />
-</audio>
 
 
 
@@ -64,6 +53,7 @@
  
 </table>
 
+<audio id="der Verweis" src="Der Verweis.m4a" preload="auto"></audio><a class="icon fa-volume-up" onclick="document.getElementById('der Verweis').play();"></a>
 
 
 <hr>
