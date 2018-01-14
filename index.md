@@ -55,6 +55,10 @@
 
 <hr>
 
+<footer>
+  <p>Student Number: 160360167</p>
+</footer>
+
 
 ### Support or Contact
 
