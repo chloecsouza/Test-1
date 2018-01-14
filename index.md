@@ -36,6 +36,19 @@
  <img src="img/dog.jpg" style="width:50%;"/>
 
 
+<audio controls>
+  <source src="Der Verweis.m4a" type="audio/mpeg">
+</audio>
+
+<hr>
+
+<div class="speaker"></div>
+
+<audio id="player">
+    <source src="Der Verweis.m4a" type="audio/m4a" />
+</audio>
+
+
 
 <table>
   <tr>
